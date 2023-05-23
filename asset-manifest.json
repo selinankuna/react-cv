@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/react-cv/static/css/main.5e2e5ef5.css",
+    "main.js": "/react-cv/static/js/main.816e9044.js",
+    "static/js/787.512dd3f2.chunk.js": "/react-cv/static/js/787.512dd3f2.chunk.js",
+    "static/media/Selina.jpeg": "/react-cv/static/media/Selina.e83b77be9686bf0e4ea2.jpeg",
+    "static/media/bbaa4adb-3087-4ef2-9bfb-70172815e603.jpeg": "/react-cv/static/media/bbaa4adb-3087-4ef2-9bfb-70172815e603.c23b6d922a9d5219ec8b.jpeg",
+    "index.html": "/react-cv/index.html",
+    "main.5e2e5ef5.css.map": "/react-cv/static/css/main.5e2e5ef5.css.map",
+    "main.816e9044.js.map": "/react-cv/static/js/main.816e9044.js.map",
+    "787.512dd3f2.chunk.js.map": "/react-cv/static/js/787.512dd3f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e2e5ef5.css",
+    "static/js/main.816e9044.js"
+  ]
+}
