@@ -12,9 +12,9 @@ const INFO = {
 	},
 
 	homepage: {
-		title: "Hi, my name is Selina Nkuna!",
+		title: "Hi, my name is Selina!",
 		description:
-			"I joined the Digital Academy 2 years ago on the 1st of june 2021. I had basic IT skills from as college in sandton. When i joined the program here at the Digital Academy i learned more than just basic, i learned CSS,HTML,JS, BOOTSRAP and more.",
+			"I joined the Digital Academy 2 years ago on the 1st of june 2021. I had basic IT skills from as college in sandton. When i joined the program here at the Digital Academy i learned more than just basic, i learned CSS, HTML, JS, BOOTSRAP and more.",
 	},
 
 	about: {
